@@ -1,0 +1,3 @@
+TC-001.25111,http://www.kyivpost.com,KyivPost / Independence. Community. Trust
+TC-001.1125,http://itar-tass.com/en,TASS Russia News Agency
+TC-001.25111,http://www.president.gov.ua/en/content/president_biography.html,Petro Poroshenko - Official web-site of President of Ukraine
